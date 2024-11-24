@@ -1,0 +1,128 @@
+C:\Users\Ferdi\Documents\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Ferdi\Documents\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Ferdi\Documents\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Ferdi\Documents\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\Ferdi\Documents\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Ferdi\Documents\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Ferdi\Documents\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Ferdi\Documents\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Ferdi\Documents\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form3.resources
+C:\Users\Ferdi\Documents\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Ferdi\Documents\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Ferdi\Documents\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form4.resources
+C:\Users\Ferdi\Documents\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form5.resources
+C:\Users\Ferdi\Documents\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form6.resources
+C:\Users\Ferdi\Documents\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form7.resources
+E:\Projem\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\Projem\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+E:\Projem\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+E:\Projem\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\Projem\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\Projem\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+E:\Projem\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+E:\Projem\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+E:\Projem\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form3.resources
+E:\Projem\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form4.resources
+E:\Projem\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form5.resources
+E:\Projem\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form6.resources
+E:\Projem\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form7.resources
+E:\Projem\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form8.resources
+E:\Projem\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form9.resources
+E:\Projem\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\Projem\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\Projem\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form10.resources
+E:\Projem\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form11.resources
+E:\Projem\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form12.resources
+F:\Projem\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+F:\Projem\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+F:\Projem\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+E:\Projem\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form13.resources
+E:\Projem\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form14.resources
+C:\Users\Ferdi\Documents\Projem\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Ferdi\Documents\Projem\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Ferdi\Documents\Projem\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Ferdi\Documents\Projem\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Ferdi\Documents\Projem\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form10.resources
+C:\Users\Ferdi\Documents\Projem\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form11.resources
+C:\Users\Ferdi\Documents\Projem\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form12.resources
+C:\Users\Ferdi\Documents\Projem\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form13.resources
+C:\Users\Ferdi\Documents\Projem\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form14.resources
+C:\Users\Ferdi\Documents\Projem\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\Ferdi\Documents\Projem\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form3.resources
+C:\Users\Ferdi\Documents\Projem\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form4.resources
+C:\Users\Ferdi\Documents\Projem\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form5.resources
+C:\Users\Ferdi\Documents\Projem\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form6.resources
+C:\Users\Ferdi\Documents\Projem\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form7.resources
+C:\Users\Ferdi\Documents\Projem\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form8.resources
+C:\Users\Ferdi\Documents\Projem\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form9.resources
+C:\Users\Ferdi\Documents\Projem\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Ferdi\Documents\Projem\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Ferdi\Documents\Projem\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Ferdi\Documents\Projem\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Ferdi\Documents\Projem\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Ferdi\Desktop\Projem\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Ferdi\Desktop\Projem\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Ferdi\Desktop\Projem\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Ferdi\Desktop\Projem\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Ferdi\Desktop\Projem\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Ferdi\Desktop\Projem\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Ferdi\Desktop\Projem\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Ferdi\Desktop\Projem\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form10.resources
+C:\Users\Ferdi\Desktop\Projem\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form11.resources
+C:\Users\Ferdi\Desktop\Projem\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form12.resources
+C:\Users\Ferdi\Desktop\Projem\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form13.resources
+C:\Users\Ferdi\Desktop\Projem\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form14.resources
+C:\Users\Ferdi\Desktop\Projem\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\Ferdi\Desktop\Projem\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form3.resources
+C:\Users\Ferdi\Desktop\Projem\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form4.resources
+C:\Users\Ferdi\Desktop\Projem\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form5.resources
+C:\Users\Ferdi\Desktop\Projem\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form6.resources
+C:\Users\Ferdi\Desktop\Projem\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form7.resources
+C:\Users\Ferdi\Desktop\Projem\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form8.resources
+C:\Users\Ferdi\Desktop\Projem\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form9.resources
+C:\Users\Ferdi\Desktop\Projem\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Ferdi\Desktop\Projem\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Ferdi\Documents\Projem (Sağlam Spot)\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Ferdi\Documents\Projem (Sağlam Spot)\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Ferdi\Documents\Projem (Sağlam Spot)\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Ferdi\Documents\Projem (Sağlam Spot)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Ferdi\Documents\Projem (Sağlam Spot)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Ferdi\Documents\Projem (Sağlam Spot)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form10.resources
+C:\Users\Ferdi\Documents\Projem (Sağlam Spot)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form11.resources
+C:\Users\Ferdi\Documents\Projem (Sağlam Spot)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form12.resources
+C:\Users\Ferdi\Documents\Projem (Sağlam Spot)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form13.resources
+C:\Users\Ferdi\Documents\Projem (Sağlam Spot)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form14.resources
+C:\Users\Ferdi\Documents\Projem (Sağlam Spot)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\Ferdi\Documents\Projem (Sağlam Spot)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form3.resources
+C:\Users\Ferdi\Documents\Projem (Sağlam Spot)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form4.resources
+C:\Users\Ferdi\Documents\Projem (Sağlam Spot)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form5.resources
+C:\Users\Ferdi\Documents\Projem (Sağlam Spot)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form6.resources
+C:\Users\Ferdi\Documents\Projem (Sağlam Spot)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form7.resources
+C:\Users\Ferdi\Documents\Projem (Sağlam Spot)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form8.resources
+C:\Users\Ferdi\Documents\Projem (Sağlam Spot)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form9.resources
+C:\Users\Ferdi\Documents\Projem (Sağlam Spot)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Ferdi\Documents\Projem (Sağlam Spot)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Ferdi\Documents\Projem (Sağlam Spot)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Ferdi\Documents\Projem (Sağlam Spot)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Ferdi\Documents\Z-ÖDEVLER\Lise Hayatı Pc Ödevleri\C#\Projem (Sağlam Spot)\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Ferdi\Documents\Z-ÖDEVLER\Lise Hayatı Pc Ödevleri\C#\Projem (Sağlam Spot)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Ferdi\Documents\Z-ÖDEVLER\Lise Hayatı Pc Ödevleri\C#\Projem (Sağlam Spot)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Ferdi\Documents\Z-ÖDEVLER\Lise Hayatı Pc Ödevleri\C#\Projem (Sağlam Spot)\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Ferdi\Documents\Z-ÖDEVLER\Lise Hayatı Pc Ödevleri\C#\Projem (Sağlam Spot)\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Ferdi\Documents\Z-ÖDEVLER\Lise Hayatı Pc Ödevleri\C#\Projem (Sağlam Spot)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Ferdi\Documents\Z-ÖDEVLER\Lise Hayatı Pc Ödevleri\C#\Projem (Sağlam Spot)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Ferdi\Documents\Z-ÖDEVLER\Lise Hayatı Pc Ödevleri\C#\Projem (Sağlam Spot)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form10.resources
+C:\Users\Ferdi\Documents\Z-ÖDEVLER\Lise Hayatı Pc Ödevleri\C#\Projem (Sağlam Spot)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form11.resources
+C:\Users\Ferdi\Documents\Z-ÖDEVLER\Lise Hayatı Pc Ödevleri\C#\Projem (Sağlam Spot)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form12.resources
+C:\Users\Ferdi\Documents\Z-ÖDEVLER\Lise Hayatı Pc Ödevleri\C#\Projem (Sağlam Spot)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form13.resources
+C:\Users\Ferdi\Documents\Z-ÖDEVLER\Lise Hayatı Pc Ödevleri\C#\Projem (Sağlam Spot)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form14.resources
+C:\Users\Ferdi\Documents\Z-ÖDEVLER\Lise Hayatı Pc Ödevleri\C#\Projem (Sağlam Spot)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\Ferdi\Documents\Z-ÖDEVLER\Lise Hayatı Pc Ödevleri\C#\Projem (Sağlam Spot)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form3.resources
+C:\Users\Ferdi\Documents\Z-ÖDEVLER\Lise Hayatı Pc Ödevleri\C#\Projem (Sağlam Spot)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form4.resources
+C:\Users\Ferdi\Documents\Z-ÖDEVLER\Lise Hayatı Pc Ödevleri\C#\Projem (Sağlam Spot)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form5.resources
+C:\Users\Ferdi\Documents\Z-ÖDEVLER\Lise Hayatı Pc Ödevleri\C#\Projem (Sağlam Spot)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form6.resources
+C:\Users\Ferdi\Documents\Z-ÖDEVLER\Lise Hayatı Pc Ödevleri\C#\Projem (Sağlam Spot)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form7.resources
+C:\Users\Ferdi\Documents\Z-ÖDEVLER\Lise Hayatı Pc Ödevleri\C#\Projem (Sağlam Spot)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form8.resources
+C:\Users\Ferdi\Documents\Z-ÖDEVLER\Lise Hayatı Pc Ödevleri\C#\Projem (Sağlam Spot)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form9.resources
+C:\Users\Ferdi\Documents\Z-ÖDEVLER\Lise Hayatı Pc Ödevleri\C#\Projem (Sağlam Spot)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Ferdi\Documents\Z-ÖDEVLER\Lise Hayatı Pc Ödevleri\C#\Projem (Sağlam Spot)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
